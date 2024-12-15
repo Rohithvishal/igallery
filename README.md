@@ -121,7 +121,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <h1>Interactive Photo Gallery</h1>
-    <h2>GOAT'S OF FOOTBALL</h2>
+    <h2>GOAT'S OF TOLLYWOOD</h2>
 
     <div class="gallery">
         <div class="gallery-item"><img src="v-4.jpg" alt=""></div>
@@ -142,7 +142,7 @@ Publish the website in the given URL.
     </div>
 
     <footer>
-        &copy; 2024 designed byROHITH J [24000942]. All Rights Reserved.
+        &copy; 2024 designed by ROHITH J [24000942]. All Rights Reserved.
     </footer>
 
     <script>
