@@ -124,8 +124,8 @@ Publish the website in the given URL.
     <h2>GOAT'S OF FOOTBALL</h2>
 
     <div class="gallery">
-        <div class="gallery-item"><img src="cristiano.webp" alt=""></div>
-        <div class="gallery-item"><img src="messi.jpeg" alt=""></div>
+        <div class="gallery-item"><img src="v-4.jpg" alt=""></div>
+        <div class="gallery-item"><img src="v-1.jpg" alt=""></div>
         <div class="gallery-item"><img src="messi2.jpeg" alt=""></div>
         <div class="gallery-item"><img src="AP.avif" alt=""></div>
         <div class="gallery-item"><img src="ronaldo2.png" alt=""></div>
@@ -142,7 +142,7 @@ Publish the website in the given URL.
     </div>
 
     <footer>
-        &copy; 2024 designed by Dhanus karthi S[24005701]. All Rights Reserved.
+        &copy; 2024 designed byROHITH J [24000942]. All Rights Reserved.
     </footer>
 
     <script>
@@ -177,8 +177,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![alt text](<Screenshot 2024-12-15 224721.png>)
 
-![alt text](<Screenshot (42).png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
